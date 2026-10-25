@@ -1,4 +1,4 @@
-Ceci est du code très complexe impossible à déchifer
+ceci est du code très complexe impossible à déchifer branch ft-0001
 
 ⟦ NΞXUS :: CORE_Δ7 :: SESSION_0xFF ⟧
 
