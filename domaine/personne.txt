@@ -1,0 +1,32 @@
+Ceci est le code de la personne qui est capable de déchifrer  le code de niveau 7 en int 
+
+
+
+PROMETHEUS_Ω :: REACTOR_CONTROL :: NODE_09 ⟧
+
+Ψ::initialize(0xAF77, "SECTOR_NULL");
+Δ.core ↦ [α₀ ⊗ β₇ ⊕ Ω];
+λ::bind(neural_fragment::UNKNOWN);
+
+reactor Ω_09 {
+    plasma = 0xFF92;
+    stability = ∅;
+    containment = [▓▓▓░░░░░];
+
+    while (Δ.pulse ≠ VOID) {
+        Ψ.inject(quantum::echo);
+        Ω.temperature += [0x7F ⊗ λ];
+
+        if (containment < Σ.threshold) {
+            broadcast("⟨ ENTITY_AWAKENING ⟩");
+            seal::sector(09, Ω_OVERRIDE);
+        }
+    }
+}
+
+
+
+
+
+
+
